@@ -10,7 +10,7 @@
  * ---------------------------------------------------------------------------- */
 
     // Chart setup
-    function pieEntryAnimation(element, radius, data) {
+    function pieChartAnimation(element, radius, data) {
 
 
         // Basic setup
